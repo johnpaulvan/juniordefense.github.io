@@ -1,0 +1,88 @@
+body{
+    background-color: gray;
+}
+.nav{
+    float:right;
+    height:130px;
+    background-color:red;
+    padding-top:35px;
+}
+.top-nav{
+    background-color:#2aabe2;
+}
+.nav-pills{
+    background-color:transparent;
+    margin-right:20px;
+    padding-top:50px;
+}
+.logo{
+   height:115px;
+   margin-left:20px;
+   margin-top:8px;
+}
+/* carousel section */
+.carousel{
+    margin-bottom:0px;
+}
+.carousel-caption{
+    z-index:10;
+    padding-bottom:60px;
+}
+.carousel-inner .item{
+    width:100%;
+    height:950px;
+    background-size:cover;
+    background-position:center;
+}
+#carousel_image_one{
+    background-image:url("../img/juniordefensepics/juniordefensepics.001.jpeg");
+}
+#carousel_image_two{
+    background-image:url("../img/juniordefensepics/juniordefensepics.002.jpeg");
+}
+#carousel_image_three{
+    background-image:url("../img/juniordefensepics/juniordefensepics.003.jpeg")
+}
+#carousel_image_four{
+    background-image: url("../img/juniordefensepics/juniordefensepics.004.jpeg");
+}
+.carousel_logo_image{
+    max-height:300px;
+}
+.carousel_button{
+    color:#fff;
+    background-color:#f7931e;
+    border-color:transparent;
+}
+.carousel_button:hover{
+    background-color:#2aabe2;
+    border-color:inherit;
+}
+.carousel-caption p {
+    color:#f7f7f7;
+    font-size:16px;
+}
+/* carousel section ends */
+.pic{
+    background-color: gray;
+}
+.container{
+    height:500px;
+}
+.back{
+    background-color: gray;
+}
+.text{
+    background-color:gray;
+}
+p{
+    font-size: 25px;
+}
+.foot{
+    text-align:center;
+    padding-top:94px;
+}
+footer{
+    height:200px;
+    background-color:#f7931e;
+}
